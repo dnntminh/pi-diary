@@ -32,7 +32,7 @@ pi install npm:pi-diary
 From GitHub or a local checkout:
 
 ```sh
-pi install git:github.com/midodimori/pi-diary
+pi install git:github.com/dnntminh/pi-diary
 pi install /absolute/path/to/pi-diary
 ```
 
